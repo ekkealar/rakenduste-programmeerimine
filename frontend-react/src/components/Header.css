@@ -1,0 +1,32 @@
+header.ant-layout-header {
+	height: 5vw;
+	background: rgb(93, 125, 136);
+}
+
+.pic {
+	height: 5vw;
+}
+.Buttons {
+	margin-right: auto;
+}
+.Logo {
+	display: flex;
+	vertical-align: middle;
+}
+.Header {
+	display: flex;
+	align-items: center;
+}
+
+.Logo button {
+	width: 10vw;
+	margin-right: 1vw;
+	font-size: 2vh;
+	background-color: rgb(91, 181, 211);
+	border: 0;
+}
+
+.Logo button:hover {
+	background-color: rgb(61, 80, 87);
+	color: white;
+}
